@@ -1,0 +1,7 @@
+  Continent  Country  Pageviews
+0    Europe       UK     100000
+1    Europe       DE      20000
+2    Africa    Kenya      40000
+3    Africa  Morocco      20000
+4    Africa     Chad      10000
+
